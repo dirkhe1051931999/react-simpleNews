@@ -27,4 +27,4 @@
 
 ### 实现效果
 
-![效果1](https://github.com/dirkhe1051931999/react-simpleNews/screenshot/1.jpg) ![效果2](https://github.com/dirkhe1051931999/react-simpleNews/screenshot/1-1.jpg) ![效果3](https://github.com/dirkhe1051931999/react-simpleNews/screenshot/1-2.jpg) ![效果4](https://github.com/dirkhe1051931999/react-simpleNews/screenshot/2.jpg) ![效果5](https://github.com/dirkhe1051931999/react-simpleNews/screenshot/2-1.jpg)
+![效果1](https://github.com/dirkhe1051931999/react-simpleNews/blob/master/screenshot/1.jpg) ![效果2](https://github.com/dirkhe1051931999/react-simpleNews/blob/master/screenshot/1-1.jpg) ![效果3](https://github.com/dirkhe1051931999/react-simpleNews/blob/master/screenshot/1-2.jpg) ![效果4](https://github.com/dirkhe1051931999/react-simpleNews/blob/master/screenshot/2.jpg) ![效果5](https://github.com/dirkhe1051931999/react-simpleNews/blob/master/screenshot/2-1.jpg)
